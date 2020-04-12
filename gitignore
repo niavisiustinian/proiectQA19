@@ -1,0 +1,3 @@
+#excludefromgit
+.idea
+*.iml
